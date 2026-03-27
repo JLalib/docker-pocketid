@@ -1,4 +1,4 @@
-# Pocket ID -- Contenedor Docker
+# Pocket ID
 
 Este repositorio contiene las instrucciones para desplegar **Pocket
 ID**, un sistema de autenticación moderno basado en **WebAuthn**,
